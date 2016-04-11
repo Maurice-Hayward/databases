@@ -1,14 +1,13 @@
 import wikia
 import urllib
 import urllib.request
-import json
 import re
 import string
 import csv
 from bs4 import BeautifulSoup
 
 def findCharacter(name):
-	print(name)
+
 	try:
 		page = wikia.page("marvel", name)
 	except:
@@ -17,7 +16,6 @@ def findCharacter(name):
 
 	currentUrl = page.url;
 	currentUrl = currentUrl.replace(" ", "_")
-	print(currentUrl)
 	tempSoup = BeautifulSoup(urllib.request.urlopen(currentUrl),"html.parser")
 	wiki = ""
 	for soupLine in tempSoup('div',{'id': 'mw-content-text'}):
@@ -33,8 +31,12 @@ def findCharacter(name):
 					wiki = character[index]["href"]
 					print(character[index]["href"])
 					break;
-	newUrl = "http://marvel.wikia.com" + wiki	
-	return newUrl
+	newUrl = "http://marvel.wikia.com" + wiki
+	testUrl = wiki.replace('/wiki/','')
+	if 'Earth-616' not in testUrl:
+		return findCharacter(testUrl)
+	else:
+		return newUrl
 
 def createAliasRelation(newUrl,name):
 	outputName = 'alias.csv'
@@ -58,7 +60,6 @@ def createAliasRelation(newUrl,name):
 	    		information.append(temp)
 	    		for aliases in temp:
 	    			dataWriter.writerow([name,aliases])
-	    print(information)
 	outputFile.close()
 
 if __name__ == "__main__":
