@@ -13,7 +13,6 @@ def findCharacter(name):
 	except:
 		print("The character you are looking for is does not exist in the Earth-616 universe")
 		exit()
-
 	currentUrl = page.url;
 	currentUrl = currentUrl.replace(" ", "_")
 	tempSoup = BeautifulSoup(urllib.request.urlopen(currentUrl),"html.parser")
@@ -21,22 +20,23 @@ def findCharacter(name):
 	for soupLine in tempSoup('div',{'id': 'mw-content-text'}):
 		character = soupLine.find_all("a")
 		for index in range(1,len(character)):
-			if not tempSoup('div',{'id': 'messageBox'}):
-				if(':' not in character[index]["href"]):
-					wiki = character[index]["href"]
-					print(character[index]["href"])
-					break;
-			else:
-				if(':' not in character[index]["href"]):
-					wiki = character[index]["href"]
-					print(character[index]["href"])
-					break;
+			wiki = character[index]["href"]
+			break;
+
 	newUrl = "http://marvel.wikia.com" + wiki
 	testUrl = wiki.replace('/wiki/','')
-	if 'Earth-616' not in testUrl:
-		return findCharacter(testUrl)
+	for header in tempSoup('div', {'class' : 'header-column header-title'}):
+		redirect = header.find_all("h2")
+	if(len(redirect) == 0):
+		if 'Earth-616' not in testUrl:
+			if 'Earth' in testUrl:
+				print("The character you are looking for is from a different dimension")
+				exit()
+			return findCharacter(testUrl)
+		else:
+			return newUrl
 	else:
-		return newUrl
+		return newUrl;
 
 def createAliasRelation(newUrl,name):
 	outputName = 'alias.csv'
