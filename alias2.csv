@@ -148,8 +148,7 @@ ID,real_name,current_alias
 1010892, Jonathan Johnny Clay,Rawhide Kid
 1010965, Albert Malik,Red Skull
 1010990, Raniero Drago ,Blackie Drago
-1010937, former legal name unrevealed),Justice
-1010937, former legal name unrevealed),Justice
+1010937, Josiah al hajj Saddiq,Justice
 1009641, Jacques Duquesne,Swordsman
 1011249, Wallace Jackson,Red 9
 1009700, Max Pressman,Wallow
@@ -183,7 +182,7 @@ ID,real_name,current_alias
 1009251, Anton Vanko,Crimson Dynamo
 1010841, Maximillian Zaran,Zaran
 1011343, Jr., Jr.
-1011297, Abigail (last name unrevealed),Lt. Commander Abigail Brand
+1011297, Abigail,Lt. Commander Abigail Brand
 1011322, Druig,Druig
 1011397, Simon Maddicks,Killer Shrike
 1010722, M-11,Human Robot
@@ -268,7 +267,7 @@ ID,real_name,current_alias
 1010767, Marshall Evan Stone III,Random
 1011019, Owen Reece ,Molecule Man
 1011183, Zuras, Zuras
-1009515, Frank Castle (legally changed from Francis Castiglione for a 3rd tour of Vietnam),Punisher
+1009515, Frank Castle ,Punisher
 1009149, Nils Styger,Abyss
 1009447, Dr. Nathaniel Essex,Mister Sinister
 1011184,Unknown,Strel
@@ -306,11 +305,11 @@ ID,real_name,current_alias
 1010773, Julia Eugenia Cornwall Carpenter,Madame Web 
 1009413, James Arthur Madrox,Multiple Man
 1009485, Guy Smith,Mister Sensitive
-1009717, Rahne Sinclair (pronounced Rain),Wolfsbane
+1009717, Rahne Sinclair,Wolfsbane
 1011053,Unknown,Maelstrom
 1009580, Gaveedra Seven,Shatterstar
 1016837, Peter Parker, Peter Parker
-1009180, Beta Ray Bill (legally changed from Bill),Beta Ray Bill
+1009180, Beta Ray Bill,Beta Ray Bill
 1010881, Marco Scarlotti ,Whiplash
 1011032, James Sanders,Speed Demon
 1009387, Quintavius Quirinius Quire ,Kid Omega
@@ -346,7 +345,7 @@ ID,real_name,current_alias
 1009560, Walter Langkowski,Sasquatch
 1009404, Curtis Connors,Lizard
 1009241, Tyrone Johnson,Cloak
-1011289, Erik Killmonger (legally changed from N'Jadaka),Killmonger
+1011289, Erik Killmonger,Killmonger
 1009270, Cal'syee Neramani,Deathbird
 1010898, Sinthea Shmidt ,Sin
 1011094, Xavin,Karolina Dean 
@@ -356,7 +355,7 @@ ID,real_name,current_alias
 1011012, Antonio Rodriguez,Armadillo
 1009271, Irene Adler,Destiny
 1011357, Karen Page, Karen Page
-1010805, Aaron Stack (Legal name); Z2P45-9-X-51 (Model number) ,Machine Man
+1010805, Aaron Stack Z2P45-9-X-51 (Model number) ,Machine Man
 1011298, Hisako Ichiki,Armor
 1009512, Elizabeth Betsy Braddock,Psylocke
 1009228, Sharon Carter,Agent 13
@@ -369,13 +368,13 @@ ID,real_name,current_alias
 1010947, Christopher Bradley,Bolt
 1011035, Satana Hellstrom,Satana
 1009258, Tandy Bowen,Dagger
-1009589, Silver Fox (apparently),Silver Fox
+1009589, Silver Fox ,Silver Fox
 1010783, Katherine Farrell,Kat Farrell
 1009366, Susan Storm-Richards,Invisible Woman
 1009345, Burt Kenyon,Hitman
 1009184, Blackagar Boltagon,Black Bolt
 1009267, Alison Ali Blaire,Dazzler
-1011087, Moonbeam (last name unknown),Dead Girl
+1011087, Moonbeam ,Dead Girl
 1011208, Henry Hellrung,Anthem
 1009186, Dane Whitman,Black Knight
 1009671, Patricia Trish Tilby,Trish Tilby
@@ -425,7 +424,7 @@ ID,real_name,current_alias
 1010827, Violet Lightner,Armory
 1009585, Herman Schultz,Shocker
 1010951, Daniel Danny Berkhart,Mysterio
-1011386, Xi'an Coy Manh ; (pronounced Shee-ahn),Karma
+1011386, Xi'an Coy Manh ,Karma
 1009245, Frank Payne,Constrictor
 1009451, Heather Douglas,Moondragon
 1009616, Dr. Jonathan Johnny Ohnn,Spot
@@ -460,8 +459,8 @@ ID,real_name,current_alias
 1009610, Dr. Peter Benjamin Parker,Spider-Man
 1011033, Janice Olivia Yanizeski ,Joystick
 1011070, Gregory Terraerton,Slayback
-1010815, Harold Lyman (legally changed from Harold Osborn), Harold Lyman (legally changed from Harold Osborn)
-1009215, Luke Cage (legally changed from Carl Lucas), Luke Cage (legally changed from Carl Lucas)
+1010815, Harold Lyman, Harold Lyman
+1009215, Luke Cage, Luke Cage
 1012295, Sa'ida Zebari,Noir
 1009373, Haroun ibn Sallah al-Rashid,Jetstream
 1009216,Unknown,Caliban
@@ -473,7 +472,7 @@ ID,real_name,current_alias
 1009493, Robert Robbie Baldwin,Speedball
 1009358,Unknown,Hussar
 1009522, St. John Allerdyce,Pyro
-1009296, Zoe Culloden (original name unrevealed),Expediter
+1009296, Zoe Culloden,Expediter
 1009421,Unknown,Mandarin
 1011282, Linda Carter,Night Nurse
 1011348, Johnathon Gallo ,Ricochet
@@ -481,7 +480,7 @@ ID,real_name,current_alias
 1009402, Lilandra Neramani,Majestrix Lilandra
 1010351, Patricia Walker,Hellcat
 1010866, Peter van Zante,Aqueduct
-1009390, Ulysses Klaw (legally changed from Ulysses Klaue),Klaw
+1009390, Ulysses Klaw ,Klaw
 1010749, Gertrude Yorkes,Gert
 1010798, Steven Grant Rogers, Steven Grant Rogers
 1009459, Reed Richards,Mister Fantastic
@@ -511,13 +510,13 @@ ID,real_name,current_alias
 1010862, Milos Masaryk,Unicorn
 1010822, Terrance Ward,Trauma
 1009316, Gauntlet,Gauntlet
-1011428, Hope Summers originally born Baby Spalding; her given birth name is unknown; renamed Hope after her adoption by Cable. Legal status of her name is unclear., Hope Summers originally born Baby Spalding; her given birth name is unknown; renamed Hope after her adoption by Cable. Legal status of her name is unclear.
+1011428, Hope Summers,Hope Summers
 1009266, Laynia Sergeievna Petrovna (Krylova),Darkstar
 1009555,Unknown,Sage
-1011375, Page (possible surname; first name unrevealed),Leper Queen
+1011375, Page ,Leper Queen
 1010962, Zuzha Yu,Puck
 1009407, Loki Laufeyson, Loki Laufeyson
-1009442, Vincent  (last name unrevealed),Mesmero
+1009442, Vincent ,Mesmero
 1009657, Truett Hudson ,The Professor
 1009458, Nathaniel Stanley Bumpo,Mr. Bumpo
 1011233,Unknown,Fat Cobra
@@ -525,7 +524,7 @@ ID,real_name,current_alias
 1009471, Nicholas Joseph Fury,The Unseen
 1009163, Jeanne-Marie Beaubier,Aurora
 1010369, Mary Walker ,Typhoid Mary
-1010790, Carmilla Black (legally changed from Thanasee Rappaccini),Scorpion
+1010790, Carmilla Black,Scorpion
 1009742, Zzzax, Zzzax
 1014812, Thaddeus E. Thunderbolt Ross,Gen. Thunderbolt Ross
 1014982, Git Hoskins, Git Hoskins
@@ -535,7 +534,7 @@ ID,real_name,current_alias
 1009199, Frederick J. Dukes,Blob
 1011117,Unknown,Unknown
 1009236, Lila Cheney, Lila Cheney
-1010852, Matthew Hawk (possibly born Matthew Liebowicz),Two-Gun Kid
+1010852, Matthew Hawk ,Two-Gun Kid
 1010329, Jane Foster,Thor
 1010952, Francis Klum,Mysterio
 1009545, Joseph Robbie Robertson, Joseph Robbie Robertson
@@ -549,7 +548,7 @@ ID,real_name,current_alias
 1009582, Shinobi Shaw, Shinobi Shaw
 1009243, Piotr Peter Nikolaievitch Rasputin,Apocalypse
 1009389, Wilson Grant Fisk ,Kingpin
-1009687, Gunther Bain (legally changed from Angelo Unuscione),Unus the Untouchable
+1009687, Gunther Bain,Unus the Untouchable
 1010868, Bonita Juarez,Firebird
 1009388, Christopher Terrance Aaronson,King Bedlam
 1009571, Robert Reynolds,Sentry
@@ -585,19 +584,19 @@ ID,real_name,current_alias
 1011288, Miles Warren,Jackal
 1009368, Anthony Edward Tony Stark,Iron Man
 1011366, Anath-Na Mut,Sphinx
-1009334, Joseph (last name unrevealed),Hammerhead
+1009334, Joseph,Hammerhead
 1010784, Ares, Ares
 1009191, Eric Brooks,Blade
 1009443, Molyb,Metal Master
 1010731, Kenneth Hale,Gorilla-Man
-1009391,  Sergei Nikolaevich Kravinoff (originally Sergei Kravinov),Kraven the Hunter
+1009391,  Sergei Nikolaevich Kravinoff,Kraven the Hunter
 1011412, Wu Ao-Shi,Iron Fist
 1009454, Michael Morbius,Morbius the Living Vampire
 1009279,Unknown,Doop
 1009312, Galactus, Galactus
 1009242, Malcolm Colcord,Director
 1009598, Angelo Espinosa ,Skin
-1014988, Lester (surname unknown),Bullseye
+1014988, Lester,Bullseye
 1011016, Armando Muñoz,Darwin
 1011316, Ann Darnell,Vapor
 1011039, Rutherford Rudy B. Princeton III,Centennial
@@ -699,7 +698,7 @@ ID,real_name,current_alias
 1011141, Cerise,Cerise
 1009525, Valeria Meghan Richards, Valeria Meghan Richards
 1011115, Tudo Sokuto,Tattoo
-1010350, Brunnhilde ; (also spelled Brunnhilda,Valkyrie
+1010350, Brunnhilde,Valkyrie
 1011359, Sophia Sanduval,Chat
 1011137, S'Bak,Baroness S'Bak
 1009478, Cassandra Nova Xavier,Cassandra Nova
@@ -743,7 +742,7 @@ ID,real_name,current_alias
 1011310, Justin Hammer, Justin Hammer
 1009699, Adrian Toomes,Vulture
 1009233, Jonothon Jono Evan Starsmore,Chamber
-1011330, Kwannon (full name unrevealed),Revanche
+1011330, Kwannon ,Revanche
 1010997, Dirk Anger, Dirk Anger
 1011139, Camille Benally,Cammi
 1009400, Charles Lehnsherr, Charles Lehnsherr
@@ -779,7 +778,7 @@ ID,real_name,current_alias
 1011420, Paul Pierre Duval,Grey Gargoyle
 1009692, Edward Charles Allan Brock,Toxin
 1011355, Sid Ridley,Captain Midlands
-1009171, Sebastion Gilberti  (adopted name),Bastion
+1009171, Sebastion Gilberti,Bastion
 1011125,Unknown,Ultra-Adaptoid
 1010743, Groot,Groot
 1011213, Maria Callasantos,Feral
@@ -804,7 +803,7 @@ ID,real_name,current_alias
 1009342, Unpronounceable,Hepzibah
 1010671, Amora,Enchantress
 1010755, Alex Wilder, Alex Wilder
-1011031, Nijo (last name unknown),Agent X
+1011031, Nijo ,Agent X
 1009698, Myles Alfred,Vivisector
 1010875, James Jimmy Darnell,X-Ray
 1009501, Kevin Tremain,Post
@@ -856,11 +855,11 @@ ID,real_name,current_alias
 1009587, Frances Louise Barrison,Shriek
 1011259, Alana Jobson ,Jackpot
 1010795, Charlotte Witter,Spider-Woman
-1009189, Natalia Alianovna Romanova (Shostakova),Black Widow
+1009189, Natalia Alianovna Romanova ,Black Widow
 1011047, Michiko Mickey Musashi,Turbo
 1009158, Unrevealed ,Arcade
-1009355, Prince Dorrek VIII(Skrull name) Theodore Teddy Rufus Altman(Earth name),Hulkling
-1009427, Robert Grayson (legally changed from Robert Grabshied),Uranian
+1009355, Prince Dorrek VIII,Hulkling
+1009427, Robert Grayson,Uranian
 1010779, Peter Paul Wisdom,Pete Wisdom
 1009311, Rumiko Fujikawa, Rumiko Fujikawa
 1009231, Cerebro, Cerebro
@@ -891,14 +890,14 @@ ID,real_name,current_alias
 1011263,Unknown,Mister Negative
 1009341,Unknown,Hemingway
 1009492, Elijah Bradley,Patriot
-1009414, Japheth ; (full name unrevealed),Maggott
+1009414, Japheth ,Maggott
 1011349, Marcus Mark Daniels,Blackout
 1009740, Arnim Zola, Arnim Zola
 1010861, Ebenezer Laughton,Scarecrow
 1011318, Bei Bang-Wen,Iron Fist
 1009645, Glenn Talbot,Colonel Glenn Talbot
-1009181, Jackson Weele (legally changed from Axel Weele),Big Wheel
-1014980,Unknown,Lord Tyger
+1009181, Jackson Weele,Big Wheel
+1014980, Unknown,Lord Tyger
 1011120, Peter Hunter,Albion
 1011150, Paibok,Power Skrull
 1014983, Karen O'Malley, Karen O'Malley
@@ -912,6 +911,6 @@ ID,real_name,current_alias
 1011290, Nicholas Gleason,Wolf Cub
 1011147, Korath-Thak, Korath-Thak
 1011401, Richard Fisk,Richard Fisk
-1009472, Kurt Wagner (legally changed from Kurt Szardos),Nightcrawler
+1009472, Kurt Wagner,Nightcrawler
 1009498,Unknown,Plazm
 1011043, Kevin Ford,Wither
